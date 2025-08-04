@@ -1,4 +1,4 @@
-![CipherMind Logo](./profile_logo.jpg)
+![CipherMind Logo](./logo.png)
 
 # CipherMind Technologies
 
@@ -88,5 +88,5 @@ We’ve worked with leading brands and organizations such as:
 
 ---
 
-> 🔎 _This repository serves as the public profile for CipherMind Technologies. All project repositories remain private to protect client IP and sensitive data._
+![CipherMind Logo](./profile_logo.jpg)
 
