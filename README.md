@@ -28,9 +28,9 @@ We combine modern tech stacks like `.NET Core`, `React`, `Angular`, `WebRTC`, an
 |----------|--------------|
 | **AI & Computer Vision** | Face recognition, object detection, surveillance analytics |
 | **Blockchain Development** | Wallets, transaction explorers, PORC storage, NFT & DAO systems |
-| **ERP & Business Systems** | HRM, Accounting, Attendance, Student & Donor Management |
+| **ERP & Business Systems** | HRM, Accounting, Attendance, Student & Payroll Management |
 | **Secure Chat & Video** | XMPP chat, WebRTC calling, group chat, real-time notifications |
-| **Real-Time Video Processing** | IP camera streaming, anomaly detection, bottle & pallet detection |
+| **Real-Time Video Processing** | IP camera streaming, anomaly detection, Arm & Fire detection |
 
 ---
 
@@ -82,7 +82,7 @@ We’ve worked with leading brands and organizations such as:
 
 📬 **Email:** contact@ciphermind.tech  
 🌐 **Website:** [https://ciphermind.tech](https://ciphermind.tech)  
-🔗 **LinkedIn:** [linkedin.com/company/ciphermind-tech](https://linkedin.com/company/ciphermind-tech)
+🔗 **LinkedIn:** [linkedin.com/company/ciphermind/](https://www.linkedin.com/company/ciphermind/)
 🔗 **Facebook:** [facebook.com/ciphermindtechnologies](https://www.facebook.com/ciphermindtechnologies)
 
 
