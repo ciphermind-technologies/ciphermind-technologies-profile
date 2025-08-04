@@ -1,3 +1,5 @@
+![CipherMind Logo](./profile_logo.jpg)
+
 # CipherMind Technologies
 
 🚀 **Empowering Enterprises with Secure, AI-Driven, and Blockchain-Enabled Software Solutions**
