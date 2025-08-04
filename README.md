@@ -80,7 +80,7 @@ We’ve worked with leading brands and organizations such as:
 
 ## 💼 Contact Us
 
-📬 **Email:** hello@ciphermind.tech  
+📬 **Email:** contact@ciphermind.tech  
 🌐 **Website:** [https://ciphermind.tech](https://ciphermind.tech)  
 🔗 **LinkedIn:** [linkedin.com/company/ciphermind-tech](https://linkedin.com/company/ciphermind-tech)
 🔗 **Facebook:** [facebook.com/ciphermindtechnologies](https://www.facebook.com/ciphermindtechnologies)
